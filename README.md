@@ -6,6 +6,26 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-Compatible-orange.svg)
 
+<br>
+<br>
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/ATk_ComfyUI_menu_01.png" width="30%" height="30%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/ATk_ComfyUI_menu_02.png" width="25%" height="25%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/ATk_ComfyUI_menu_03.png" width="35%" height="35%">
+</div>
+
+<br>
+<br>
+
+## 🎞 Short video demo
+<br>
+<div align="center">
+<a href="https://youtu.be/7WMHFhJ98fk" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/ATk_ComfyUI_Export_WF_timestamp.jpg" alt="Luciano Ambrosini EDD 24" width="45%" height="45%"></a>
+</div>
+
+
+
 ## ✨ Features
 
 ### 🎯 **Advanced Workflow Export**
@@ -20,6 +40,12 @@
 - **ATk Light (Transparent)**: Clean light theme with transparency support
 - **Auto-Installation**: Themes are automatically installed and registered in ComfyUI
 - **Smart Theme Detection**: Automatically finds and applies existing transparent themes
+> [!NOTE]
+> If you encounter any errors I recommend you to install them through ComfyUI settings by importing them from the theme folder
+> <div align="left">
+> <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/install_them_manually_01.png" width="40%" height="40%">
+> </div>
+<br>
 
 ### 📐 **Export Options**
 - **Resolution Scaling**: Choose from 1x to 4x zoom levels
