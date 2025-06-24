@@ -21,7 +21,7 @@
 ## 🎞 Short video demo
 <br>
 <div align="center">
-<a href="https://youtu.be/7WMHFhJ98fk" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/ATk_ComfyUI_Export_WF_timestamp.jpg" alt="Luciano Ambrosini EDD 24" width="45%" height="45%"></a>
+<a href="https://youtu.be/7WMHFhJ98fk" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/ATk_ComfyUI_Export_WF_timestamp.jpg" alt="Luciano Ambrosini EDD 24" width="70%" height="70%"></a>
 </div>
 
 
